@@ -8,5 +8,6 @@ def name
   @name = name
 end
 
-def 
+def name=(new_name)
+  
 end

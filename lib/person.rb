@@ -13,7 +13,7 @@ def name=(my_name)
 end
 
 def job
-  job
+  @job
 end
 
 def job=(my_job)

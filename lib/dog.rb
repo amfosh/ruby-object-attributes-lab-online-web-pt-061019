@@ -4,9 +4,9 @@ def initialize
   name 
 end
 
-def name=(dog_name)
+def name
   @name 
 end
 
-
+def name=(dog_name)
 end
